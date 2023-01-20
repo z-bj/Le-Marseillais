@@ -8,17 +8,17 @@
 ![githubPages](https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white)
 
 
-## Acknowledgements
 
+
+
+## Tools I used
  - [Awesome snazzy maps tool](https://snazzymaps.com/)
  - [Maps JavaScript API](https://developers.google.com/maps/documentation/javascript/get-api-key)
 
 
 
-
 ### Figma to HTML and CSS integration 
-
 <img src="https://github.com/z-bj/Le-Marseillais/blob/master/le-marseillais-v.gif" height="375" />
 
 
-### Visite our home [page](https://z-bj.github.io/Le-Marseillais/) ✨
+### Visit our home [page](https://z-bj.github.io/Le-Marseillais/) ✨
