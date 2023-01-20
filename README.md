@@ -7,8 +7,6 @@
 ![css](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
 ![githubPages](https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white)
 
-## Create a responsive website from Figma to code
-
 ![gif](https://github.com/z-bj/Le-Marseillais/blob/master/le-marseillais-v.gif)
 
 ### Visite the home [page](https://z-bj.github.io/Le-Marseillais/) 
