@@ -17,7 +17,7 @@
 
 
 
-### Figma to HTML and CSS integration 
+### Aperçu ©
 <img src="https://github.com/z-bj/Le-Marseillais/blob/master/le-marseillais-v.gif" width="350" height="auto" />
 
 
