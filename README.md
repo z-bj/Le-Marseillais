@@ -8,6 +8,8 @@
 
 # Figma to HTML and CSS integration 
 
-![gif](https://github.com/z-bj/Le-Marseillais/blob/master/le-marseillais-v.gif)
+
+<img src="https://github.com/z-bj/Le-Marseillais/blob/master/le-marseillais-v.gif" height="375" />
+
 
 ### Visite our home [page](https://z-bj.github.io/Le-Marseillais/) ✨
