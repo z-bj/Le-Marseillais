@@ -9,4 +9,4 @@
 
 ![gif](https://github.com/z-bj/Le-Marseillais/blob/master/le-marseillais-v.gif)
 
-### Visite our home [page](https://z-bj.github.io/Le-Marseillais/) 
+### Visite our home [page](https://z-bj.github.io/Le-Marseillais/) ✨
