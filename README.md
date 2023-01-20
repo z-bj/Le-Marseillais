@@ -7,8 +7,15 @@
 ![maps](https://img.shields.io/badge/Google%20Maps-4285F4.svg?style=for-the-badge&logo=Google-Maps&logoColor=white)
 ![githubPages](https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white)
 
-# Figma to HTML and CSS integration 
 
+## Acknowledgements
+
+ - [Awesome snazzy maps tool](https://snazzymaps.com/)
+
+
+
+
+# Figma to HTML and CSS integration 
 
 <img src="https://github.com/z-bj/Le-Marseillais/blob/master/le-marseillais-v.gif" height="375" />
 
