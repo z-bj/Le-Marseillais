@@ -12,7 +12,7 @@
 
 ## Create a responsive website from Figma to code
 
-
+![gif](https://github.com/z-bj/Le-Marseillais/blob/master/le-marseillais.gif)
 
 
 ### Visite the home [page](https://z-bj.github.io/Le-Marseillais/) 
