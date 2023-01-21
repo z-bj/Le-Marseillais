@@ -9,11 +9,14 @@ html {
 }
 
 body {
-  font-family: "Source Sans Pro", sans-serif;
+  /* font-family: "Source Sans Pro", sans-serif; */
+  font-family: 'Open Sans', sans-serif;
   line-height: 1.625;
   margin: 0;
   color: #6f6f6f;
 }
+
+
 
 a {
   color: inherit;
@@ -68,7 +71,9 @@ img {
 }
 
 .baseline-welcome {
-  font-family: "Pinyon Script", serif;
+  /* font-family: "Pinyon Script", serif; */
+  
+font-family: 'Lobster', cursive;
   color: #c89446;
   display: block;
   font-size: 2.2rem;
@@ -134,7 +139,9 @@ img {
 }
 
 .title span {
-  font-family: "Pinyon Script", serif;
+  /* font-family: "Pinyon Script", serif; */
+  
+font-family: 'Lobster', cursive;
   color: #c89446;
   font-size: 2.5rem;
   display: block;
@@ -259,7 +266,9 @@ img {
 }
 
 .menu-summary-price {
-  font-family: "Pinyon Script", serif;
+  /* font-family: "Pinyon Script", serif; */
+  
+font-family: 'Lobster', cursive;
   color: #c89446;
   font-size: 2.5rem;
   line-height: 1;
