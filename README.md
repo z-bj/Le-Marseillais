@@ -8,17 +8,14 @@
 ![githubPages](https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white)
 
 
+### Aperçu ©
 
+![gif](https://github.com/z-bj/Le-Marseillais/blob/master/le-marseillais-v.gif)
 
 
 ## Tools I used
  - [Awesome snazzy maps tool](https://snazzymaps.com/)
  - [Maps JavaScript API](https://developers.google.com/maps/documentation/javascript/get-api-key)
-
-
-
-### Aperçu ©
-<img src="https://github.com/z-bj/Le-Marseillais/blob/master/le-marseillais-v.gif" width="350" height="auto" />
 
 
 ### Visit our home [page](https://z-bj.github.io/Le-Marseillais/) ✨
