@@ -19,3 +19,5 @@
 
 
 ### Visit our home [page](https://z-bj.github.io/Le-Marseillais/) ✨
+
+![gif_parrot](https://github.com/z-bj/Le-Marseillais/blob/master/donutparrot.gif)
