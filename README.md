@@ -1,5 +1,5 @@
 # 🌊 Le Marseillais, Sea Food Restaurant ⚓
-![banner](https://github.com/z-bj/Le-Marseillais/blob/master/banner-le-marseillais-v.webp)
+![banner](https://github.com/z-bj/Le-Marseillais/blob/master/le-marseillais-banner.jpg)
 
 ![figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)
 ![html](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
