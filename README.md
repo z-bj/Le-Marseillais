@@ -33,8 +33,8 @@ bashCopy code
 
 ### Visit our home [page](https://z-bj.github.io/Le-Marseillais/) ✨
 
-## Contact Us
+## Contact Me
 
-If you have any questions or comments, please don't hesitate to [contact us](mailto:hello@zakariabeji.com).
+If you have any questions or comments, please don't hesitate to [contact me](mailto:hello@zakariabeji.com).
 
 <img src="https://github.com/z-bj/Le-Marseillais/blob/master/donutparrot.gif" width="40">
