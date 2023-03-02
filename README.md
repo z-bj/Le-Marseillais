@@ -8,7 +8,7 @@
 # Le Marseillais - Sea Food Restaurant 🌊
 
 
-Le Marseillais is a responsive restaurant website that showcases Mediterranean cuisine. From designing mockups to coding, we've put a lot of effort into creating a beautiful and user-friendly website that will help customers get a sense of what they can expect when they visit us.
+Le Marseillais is a responsive restaurant website that showcases Mediterranean cuisine. From designing mockups to coding, I've put a lot of effort into creating a beautiful and user-friendly website that will help customers get a sense of what they can expect when they visit it.
 
 ## Preview
 
