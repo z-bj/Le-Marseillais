@@ -21,7 +21,7 @@ We used a number of tools to create this website, including:
 -   Figma for designing the mockups.
 -   HTML and CSS for coding the website.
 -   Awesome Snazzy Maps for creating beautiful map styles.
--   Maps JavaScript API to embed maps on the website.
+-   Google Maps JavaScript API to embed maps on the website.
 
 ## Getting Started
 
