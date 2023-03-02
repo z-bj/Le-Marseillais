@@ -26,11 +26,11 @@ We used a number of tools to create this website, including:
 ## Getting Started
 
 To get started, clone this repository and open the `index.html` file in your browser.
+``` bash
 
-bashCopy code
+git clone https://github.com/username/repository.git cd repository open index.html
 
-`git clone https://github.com/username/repository.git cd repository open index.html`
-
+```
 ### Visit our home [page](https://z-bj.github.io/Le-Marseillais/) ✨
 
 ## Contact Me
