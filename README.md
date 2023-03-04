@@ -18,7 +18,7 @@ Le Marseillais is a responsive restaurant website that showcases Mediterranean c
 
 We used a number of tools to create this website, including:
 
--   Figma for designing the mockups.
+-   Figma to refer to the mock-up.
 -   HTML and CSS for coding the website.
 -   Awesome Snazzy Maps for creating beautiful map styles.
 -   Google Maps JavaScript API to embed maps on the website.
